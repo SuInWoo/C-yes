@@ -55,15 +55,19 @@
 
 
 ## 실시간 퀴즈
-![quiz_1](https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3)![quiz_2](https://github.com/SuInWoo/C-yes/assets/63344592/f05648d4-21e6-4638-a4f1-743ccf1a8900)![quiz_3](https://github.com/SuInWoo/C-yes/assets/63344592/8b40b03b-abf5-4f44-8024-c1c8aaf10f82)
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/8b40b03b-abf5-4f44-8024-c1c8aaf10f82" width="300" height="600">
 
 ## 문제 은행
-![problem_1](https://github.com/SuInWoo/C-yes/assets/63344592/fcbd6793-85d2-4a18-a31e-fe5eae27d593)![problem_2](https://github.com/SuInWoo/C-yes/assets/63344592/ac5aeb88-286d-4973-a4f2-d00954392bde)![probelm_3](https://github.com/SuInWoo/C-yes/assets/63344592/6c10372e-f849-4691-ba9f-6c119d03edda)
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/fcbd6793-85d2-4a18-a31e-fe5eae27d593" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/ac5aeb88-286d-4973-a4f2-d00954392bde" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/6c10372e-f849-4691-ba9f-6c119d03edda" width="300" height="600">
 
 ## 그룹 퀴즈
-![group_1](https://github.com/SuInWoo/C-yes/assets/63344592/4cd33117-04d9-4abb-83b5-3cb4925e21e8)![group_2](https://github.com/SuInWoo/C-yes/assets/63344592/34e2cf17-a506-46fd-af6a-0f3b184e09fa)![group_3](https://github.com/SuInWoo/C-yes/assets/63344592/7e5156cf-e897-4053-a998-4d0093e90d64)
-
-
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/4cd33117-04d9-4abb-83b5-3cb4925e21e8" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/34e2cf17-a506-46fd-af6a-0f3b184e09fa" width="300" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/7e5156cf-e897-4053-a998-4d0093e90d64" width="300" height="600">
 
 # 🛠 주요 기술
 
