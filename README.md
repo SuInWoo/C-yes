@@ -56,7 +56,7 @@
 
 ## 실시간 퀴즈
 <img src="https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3" width="250" height="600">
-<img src="https://github.com/SuInWoo/C-yes/assets/63344592/a7ebe6e1-22b9-4c60-a9e9-bd0d7ac3e6b3" width="250" height="600">
+<img src="https://github.com/SuInWoo/C-yes/assets/63344592/f7c3845e-99bc-4be0-9e59-b6eeb97ede18" width="250" height="600">
 <img src="https://github.com/SuInWoo/C-yes/assets/63344592/8b40b03b-abf5-4f44-8024-c1c8aaf10f82" width="250" height="600">
 
 ## 문제 은행
