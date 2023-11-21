@@ -244,9 +244,6 @@ socket-server
 - [와이어프레임](https://www.figma.com/file/EHttBkzorg0ZYZp0YbVavo/%EA%B2%BD%EC%B6%95%EB%B9%84-c-yes?type=design&node-id=303-2&mode=design)
 - [시스템 아키텍처](https://www.canva.com/design/DAF0VGnfH20/yiLXKm1KIPTV1KpNKnaTkw/edit)
 
-
-
-
 <br>
 <br>
 
@@ -254,8 +251,8 @@ socket-server
 
 | 우승빈            | 배수빈 | 우수인   | 유혜빈  | 유태영  | 조준희  |
 | ----------------- | -------- | -------- | ------- | ------- | ------- |
-| <img src="/uploads/8ad736c6a77bab0a28256ad4e24c43f6/승빈.jpg" width="130" height="180">|<img src="/uploads/45a418b2a453fc594f9dbea09881a0e0/수빈.jpg" width="130" height="180">|<img src="/uploads/0f822718f1b8f228d7878bafcf47629b/수인.jpg" width="130" height="180">|<img src="/uploads/74c2481cd9cf916373a4a54d00956703/웃는_내사진.jpg" width="130" height="180">|<img src="/uploads/c2639bd2635da0f0a2823c3c789af50c/태영.jpg" width="130" height="180">|<img src="/uploads/8a50e78f63c67b73107bf6677bc9da2e/준희.jpg" width="130" height="180">|
-| Leader & Backend | Frontend | Frontend | Infra | Backend | Backend |
+| <img src="https://github.com/SuInWoo/C-yes/assets/63344592/4261a7b1-6510-4c51-aec6-65d52868c63f" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/112969af-e9a2-4acf-a936-b63985dc0b18" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/66fbfbd0-89cb-4fac-9993-b565fa3d9672" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/0b921390-9535-4efe-8163-53a499bbf01b" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/059c80f1-2077-4942-a604-40d018a91d56" width="130" height="180">|<img src="https://github.com/SuInWoo/C-yes/assets/63344592/4f37d0dd-7f87-403d-bd5f-2cc3381bfb4c" width="130" height="180">|
+| Leader & Backend | Frontend / Infra | Frontend / Infra | Infra | Backend | Backend |
 
 <br>
 <br>
